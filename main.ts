@@ -1,6 +1,6 @@
 input.onButtonPressed(Button.A, function () {
     if (sprite.get(LedSpriteProperty.X) == 2) {
-        game.addScore(501)
+        game.addScore(1)
     }
 })
 input.onButtonPressed(Button.B, function () {
